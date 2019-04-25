@@ -1,6 +1,6 @@
 (defproject clj-vect-subtraction "0.1.0-SNAPSHOT"
   :description "tool used to find difference between two vectors"
-  :url "http://example.com/FIXME"
+  :url "https://github.com/korlando7/clj-vect-subtratction"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.8.0"]]
